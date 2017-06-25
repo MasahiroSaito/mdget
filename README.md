@@ -5,5 +5,5 @@
 ## 使い方
 
 ```
-mdget 
+mdget https://raw.githubusercontent.com/MasahiroSaito/mdget/master/README.md
 ```
